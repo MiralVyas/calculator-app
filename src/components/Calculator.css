@@ -1,0 +1,30 @@
+.calculator {
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.calculator input {
+  width: 200px;
+  height: 30px;
+}
+.calculator .result {
+  margin-bottom: 10px;
+}
+
+.calculator button {
+  width: 100px;
+  height: 40px;
+  margin-top: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.calculator .btn {
+  background-color: #ff6247;
+  color: #fff;
+}
+.calculator div {
+  font-size: 24px;
+}
